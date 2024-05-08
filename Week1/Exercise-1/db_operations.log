@@ -1,0 +1,8 @@
+2024-05-07T21:57:47.149Z - Database created and in use
+2024-05-07T21:57:47.376Z - Tables created
+2024-05-07T21:57:47.389Z - Data inserted into Invitee
+2024-05-07T21:57:47.404Z - Data inserted into Room
+2024-05-07T21:57:47.419Z - Data inserted into Meeting
+2024-05-07T21:57:47.422Z - Transaction committed successfully
+2024-05-07T21:57:47.424Z - Connection released
+2024-05-07T21:57:47.426Z - Connection pool closed
