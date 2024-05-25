@@ -1,0 +1,68 @@
+[
+    {
+        "_id": 1,
+        "recipe_name": "Baked Brussels Sprouts",
+        "categories": [
+            { "category_name": "Vegan" },
+            { "category_name": "Gluten-Free" }
+        ],
+        "ingredients": [
+            { "ingredient_name": "Brussels Sprouts", "quantity": "200g" },
+            { "ingredient_name": "Lemon juice", "quantity": "2 tbsp" },
+            { "ingredient_name": "Sesame seeds", "quantity": "1 tbsp" },
+            { "ingredient_name": "Pepper", "quantity": "to taste" },
+            { "ingredient_name": "Salt", "quantity": "to taste" },
+            { "ingredient_name": "Olive oil", "quantity": "2 tbsp" }
+        ],
+        "steps": [
+            { "step_number": 1, "instruction": "Preheat the oven" },
+            { "step_number": 2, "instruction": "Mix the ingredients in a bowl" },
+            { "step_number": 3, "instruction": "Spread the mix on a baking sheet" },
+            { "step_number": 4, "instruction": "Bake for 30 minutes" }
+        ]
+    },
+     {
+        "_id": 2,
+        "recipe_name": "Spaghetti Carbonara",
+        "categories": [
+          { "category_name": "Pasta" },
+          { "category_name": "Italian" }
+        ],
+        "ingredients": [
+          { "ingredient_name": "Spaghetti", "quantity": "200g" },
+          { "ingredient_name": "Eggs", "quantity": "3" },
+          { "ingredient_name": "Pancetta", "quantity": "100g" },
+          { "ingredient_name": "Parmesan cheese", "quantity": "50g" },
+          { "ingredient_name": "Pepper", "quantity": "to taste" },
+          { "ingredient_name": "Salt", "quantity": "to taste" }
+        ],
+        "steps": [
+          { "step_number": 1, "instruction": "Cook the spaghetti" },
+          { "step_number": 2, "instruction": "Fry the pancetta" },
+          { "step_number": 3, "instruction": "Mix eggs and cheese" },
+          { "step_number": 4, "instruction": "Combine everything" }
+        ]
+      },
+      {
+        "_id": 3,
+        "recipe_name": "Chicken Curry",
+        "categories": [
+          { "category_name": "Curry" },
+          { "category_name": "Asian" }
+        ],
+        "ingredients": [
+          { "ingredient_name": "Chicken", "quantity": "500g" },
+          { "ingredient_name": "Coconut milk", "quantity": "400ml" },
+          { "ingredient_name": "Curry powder", "quantity": "2 tbsp" },
+          { "ingredient_name": "Onion", "quantity": "1" },
+          { "ingredient_name": "Garlic", "quantity": "2 cloves" },
+          { "ingredient_name": "Ginger", "quantity": "1 tbsp" }
+        ],
+        "steps": [
+          { "step_number": 1, "instruction": "Cook the chicken" },
+          { "step_number": 2, "instruction": "Sauté onions, garlic, and ginger" },
+          { "step_number": 3, "instruction": "Add curry powder" },
+          { "step_number": 4, "instruction": "Add coconut milk and simmer" }
+        ]
+      }
+]
